@@ -1,0 +1,35 @@
+Este es un plugins <<MHGWorlds>> para crear mundos nuevos y tipos de mundo una mejor opcion que multivercore 
+Comando	Función
+/mhg help	Muestra la ayuda
+/mhg list	Muestra los mundos conocidos
+/mhg create	Crea un mundo
+/mhg tp	Teletransporta a un mundo
+
+/mhg           create <nombre> <tipo>
+Tipo	         Qué genera
+normal 	       Mundo normal
+islasflotante  Mundo de islas flotantes
+plano	Mundo    superplano
+nether	       Mundo del Nether
+end	           Mundo del End
+Crear un mundo normal:
+/mhg create mundo1 normal
+
+
+Crear un mundo de islas flotantes:
+/mhg create islas islasflotante
+
+
+Crear un mundo plano:
+/mhg create creativo plano
+
+
+Crear un Nether:
+/mhg create infierno nether
+
+
+Crear un End:
+/mhg create dimension end
+
+Teletransportarse
+/mhg tp <nombre>
